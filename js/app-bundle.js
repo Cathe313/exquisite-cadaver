@@ -2716,7 +2716,7 @@
 /* 30 */
 /***/ function(module, exports) {
 
-	module.exports = "<a href=\"#\"><button> Back to Main Menu </button></a>\n<div class=\"row\">\n  <div class=\"small-12 columns\">\n    <div class=\"signup-panel\">\n      <p class=\"welcome\"> Choose your new password </p>\n      <form>\n        <div class=\"row collapse\">\n          <div class=\"small-12 columns \">\n            <input class=\"password\" type=\"password\" placeholder=\"new password (min. 8 characters)\">\n          </div>\n        </div>\n        <div class=\"row collapse\">\n          <div class=\"small-12 columns \">\n            <input class=\"confirmPassword\" type=\"password\" placeholder=\"confirm new password\" required=\"\" name=\"confirmPassword\" data-invalid=\"\">\n          </div>\n        </div>\n        <button class=\"change\"> Change password </button>\n      </form>\n      \n    </div>\n  </div>\n</div>"
+	module.exports = "<a href=\"#\"><button> Back to Main Menu </button></a>\n<div class=\"row\">\n  <div class=\"small-12 columns\">\n    <div class=\"signup-panel\">\n      <p class=\"welcome\"> Choose your new password </p>\n      <form>\n        <div class=\"row collapse\">\n          <div class=\"small-12 columns \">\n            <input class=\"password\" type=\"password\" placeholder=\"new password (min. 8 characters)\">\n          </div>\n        </div>\n        <div class=\"row collapse\">\n          <div class=\"small-12 columns \">\n            <input class=\"confirmPassword\" type=\"password\" placeholder=\"confirm new password\" required=\"\" name=\"confirmPassword\" data-invalid=\"\">\n          </div>\n        </div>\n      </form>\n      <button class=\"change\"> Change password </button>\n    </div>\n  </div>\n</div>"
 
 /***/ },
 /* 31 */
